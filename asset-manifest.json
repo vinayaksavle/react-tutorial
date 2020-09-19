@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vinayaksavle/react-tutorial/static/css/main.3e708055.chunk.css",
+    "main.js": "/vinayaksavle/react-tutorial/static/js/main.924e84cb.chunk.js",
+    "main.js.map": "/vinayaksavle/react-tutorial/static/js/main.924e84cb.chunk.js.map",
+    "runtime-main.js": "/vinayaksavle/react-tutorial/static/js/runtime-main.c2164be5.js",
+    "runtime-main.js.map": "/vinayaksavle/react-tutorial/static/js/runtime-main.c2164be5.js.map",
+    "static/js/2.da419696.chunk.js": "/vinayaksavle/react-tutorial/static/js/2.da419696.chunk.js",
+    "static/js/2.da419696.chunk.js.map": "/vinayaksavle/react-tutorial/static/js/2.da419696.chunk.js.map",
+    "index.html": "/vinayaksavle/react-tutorial/index.html",
+    "precache-manifest.fb6f670c188807e1dba5f3908fa6364e.js": "/vinayaksavle/react-tutorial/precache-manifest.fb6f670c188807e1dba5f3908fa6364e.js",
+    "service-worker.js": "/vinayaksavle/react-tutorial/service-worker.js",
+    "static/css/main.3e708055.chunk.css.map": "/vinayaksavle/react-tutorial/static/css/main.3e708055.chunk.css.map",
+    "static/js/2.da419696.chunk.js.LICENSE.txt": "/vinayaksavle/react-tutorial/static/js/2.da419696.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2164be5.js",
+    "static/js/2.da419696.chunk.js",
+    "static/css/main.3e708055.chunk.css",
+    "static/js/main.924e84cb.chunk.js"
+  ]
+}
