@@ -1,5 +1,4 @@
 {
-  "homepage": "https://vinayaksavle.github.io/react-tutorial",
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
+  "homepage": "https://vinayaksavle.github.io/react-tutorial",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
